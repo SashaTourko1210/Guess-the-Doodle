@@ -38,5 +38,5 @@
 ## Plany rozwoju
 
 ## Autorzy
-	•	**Aliaksandr Turko** - Scrum Master, Product Owner, Developer
-	•	**Karyna Kirynskaya** - Developer
+	• Aliaksandr Turko - Scrum Master, Product Owner, Developer
+	• Karyna Kirynskaya - Developer
